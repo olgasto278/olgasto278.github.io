@@ -1,0 +1,26 @@
+<HTML>
+<HEAD>
+<TITLE>Моя домашняя страница</TITLE>
+</HEAD>
+<BODY TEXT="9997"
+BGCOLOR="#NNNNNN"
+LINK="#0000FF"
+VLINK="#FF0000"
+ALINK="#000088">
+<CENTER><H1>Приветствую на моей домашней странице!</H1></CENTER>
+<CENTER><H2>Надеюсь, вам не будет скучно...</H2></CENTER>
+Позвольте представиться: меня зовут <B><I>Ольга</B></I>
+Я люблю <B>Фантастику, компьютеры и поп-музыку.</B>
+Терпеть не могу <B><I>Рэп и хомячков<B/></I>
+<P><CENTER>Для тех , кто еще не знает, как я выгляжу, - моя фотография:</P></CENTER>
+<IMG SRC="F:/Distr/свое фото.jpg"></P></CENTER>
+<P><CENTER><IMG SRC="https://miranimacii.ru/_ph/15/321974747.gif"></P></CENTER>
+<div id="_MI_546c5844f41d5751bc24d87991fa429a"><a href="https://ru.meteocast.net/">Погода</a></div> <script type='text/javascript'>(function(d,w,t,k){function l(){if(typeof(w._MIOB_)=='undefined'){w._MIOB_={};}var m=w._MIOB_[t]=k;var s=d.createElement('script');m.p=('https:'==d.location.protocol?'https:':'http:');s.type='text/javascript';s.async=true;s.src=m.p+'//info.meteocast.net/mt/'+m.t+'.js';d.body.appendChild(s);}if(d.readyState=='complete')l();else{if(w.attachEvent)w.attachEvent('onload',l);else w.addEventListener('load',l,false);}})(document,window,'546c5844f41d5751bc24d87991fa429a',{t:'4x6',sw:{"pname":1,"ccond":1,"ccdesc":1,"dayblock":1,"tblank":1},css:['{p}//info.meteocast.net/mt/{t}.css','{p}//info.meteocast.net/cs/ceffdc6e74511ddca6aef3878fdc6c5bd031633c.css'],source:'meteocast'});</script>
+<HR>
+<CENTER>Можете попробовать поискать информацию обо мне на <A HREF="http://www.yahoo.com">Яндексе.</A></CENTER></P>
+<CENTER>и напишите мне письмо на <A HREF="mailto:reutskapolina@yahoo.com">reutskapolina@yahoo.com</A>, что у Вас вышло</CENTER>
+<A HREF="file:///F:/Distr/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80%20%D1%80%D0%B5%D1%81%D1%83%D1%80%D1%81%D0%BE%D0%B2%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82.htm">Обзор ресурсов интернет</A>
+<A HREF="file:///F:/Distr/%D0%9F%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%20%D0%BF%D0%BE%20%D0%9D%D1%8C%D1%8E-%D0%99%D0%BE%D1%80%D0%BA%D1%83.htm">Путеводитель по Нью-Йорку</A>
+</BODY>
+</HTML>
+
